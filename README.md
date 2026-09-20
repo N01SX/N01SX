@@ -1,20 +1,119 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**N01SX/N01SX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/profile-banner.png" alt="N01SX profile banner" width="860" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img width="860" height="240" alt="image" src="https://github.com/user-attachments/assets/41bd43c6-a329-40e8-b110-8e81de3bf925" />
+### building things • solving problems • learning in public
 
-<img width="860" height="260" alt="image" src="https://github.com/user-attachments/assets/94835582-3d2f-40d5-b41e-d23b512cb9af" />
+[![GitHub](https://img.shields.io/badge/GitHub-N01SX-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N01SX)
+[![Profile](https://img.shields.io/badge/Profile-N01SX-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N01SX)
 
-<img width="860" height="230" alt="image" src="https://github.com/user-attachments/assets/333c6d4f-763b-48d2-acc1-ac228b9eb601" />
+</div>
+
+---
+
+## About
+
+I'm **N01SX**, a high school student interested in **Competitive Programming** and **Software Development**.
+
+I like building small systems, experimenting with web technologies, and solving algorithmic problems.
+Currently focused on getting stronger at **C++**, **Data Structures & Algorithms**, and practical software projects.
+
+~~~text
+N01SX
+├── Competitive Programming
+│   ├── C++
+│   ├── Data Structures & Algorithms
+│   └── Problem Solving
+├── Software Development
+│   ├── Next.js / React
+│   ├── Node.js
+│   └── Python
+└── Linux
+    ├── Arch Linux
+    └── Hyprland
+~~~
+
+## Current Focus
+
+| Area | What I’m working on |
+| --- | --- |
+| ⚡ Competitive Programming | C++ • algorithms • data structures |
+| 🌐 Web Development | Next.js • React • TypeScript |
+| 🐍 Python | scripting • data • automation |
+| 🐧 Linux | Arch Linux • tooling • customization |
+| 🚀 Projects | building, shipping, and improving |
+
+---
+
+## Featured
+
+<div align="center">
+
+<img src="./assets/space-shooter.gif" alt="Space Shooter" width="860" />
+
+</div>
+
+> A small space-shooter project — focused on gameplay, systems, and making things fun to use.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,react,nextjs,nodejs,git,github,linux,vscode,supabase&perline=6" alt="Tech stack" />
+
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=N01SX&show_icons=true&hide_border=true&bg_color=00000000&title_color=57f287&icon_color=57f287&text_color=9ca3af&rank_icon=github" height="165" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N01SX&layout=compact&hide_border=true&bg_color=00000000&title_color=57f287&text_color=9ca3af" height="165" alt="Top languages" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=N01SX&bg_color=0d1117&color=57f287&line=16c784&point=ffffff&area=true&hide_border=true" alt="N01SX contribution graph" width="860" />
+
+</div>
+
+---
+
+## Projects
+
+Some things I enjoy working on:
+
+- **Web projects** — fast, minimal interfaces with strong visual identity
+- **Competitive programming** — algorithms, data structures, and problem solving
+- **Linux tooling** — scripts, customization, and developer workflow
+- **Game projects** — small experiments that turn ideas into playable systems
+
+> More projects will be added here as they ship.
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+**Open to learning, building, and collaborating.**
+
+[GitHub](https://github.com/N01SX) • [Repositories](https://github.com/N01SX?tab=repositories)
+
+<br/>
+
+<sub>© 2026 N01SX • Built with code, curiosity, and too many late nights.</sub>
+
+</div>
