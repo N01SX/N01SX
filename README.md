@@ -55,18 +55,6 @@ N01SX
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=N01SX&show_icons=true&hide_border=true&bg_color=00000000&title_color=57f287&icon_color=57f287&text_color=9ca3af&rank_icon=github" height="165" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N01SX&layout=compact&hide_border=true&bg_color=00000000&title_color=57f287&text_color=9ca3af" height="165" alt="Top languages" />
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
