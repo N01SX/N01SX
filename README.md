@@ -45,20 +45,6 @@ N01SX
 | 🐧 Linux | Arch Linux • tooling • customization |
 | 🚀 Projects | building, shipping, and improving |
 
----
-
-## Featured
-
-<div align="center">
-
-<img src="./assets/space-shooter.gif" alt="Space Shooter" width="860" />
-
-</div>
-
-> A small space-shooter project — focused on gameplay, systems, and making things fun to use.
-
----
-
 ## Tech Stack
 
 <div align="center">
