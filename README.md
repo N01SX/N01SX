@@ -73,16 +73,6 @@ Some things I enjoy working on:
 
 > More projects will be added here as they ship.
 
----
-
-## Let's Connect
-
-<div align="center">
-
-**Open to learning, building, and collaborating.**
-
-[GitHub](https://github.com/N01SX) • [Repositories](https://github.com/N01SX?tab=repositories)
-
 <br/>
 
 <sub>© 2026 N01SX • Built with code, curiosity, and too many late nights.</sub>
