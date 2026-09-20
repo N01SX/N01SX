@@ -59,9 +59,10 @@ N01SX
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N01SX&bg_color=0d1117&color=57f287&line=16c784&point=ffffff&area=true&hide_border=true" alt="N01SX contribution graph" width="860" />
+<img src="./assets/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="860" />
 
 </div>
+
 
 ---
 
