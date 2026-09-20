@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="N01SX profile banner" width="860" />
-
-<br/>
-
 ### building things • solving problems • learning in public
 
 [![GitHub](https://img.shields.io/badge/GitHub-N01SX-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N01SX)
