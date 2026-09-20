@@ -1,6 +1,6 @@
 <div align="center">
 
-### building things • solving problems • learning in public
+### building things • solving problems • learning 
 
 [![GitHub](https://img.shields.io/badge/GitHub-N01SX-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N01SX)
 [![Profile](https://img.shields.io/badge/Profile-N01SX-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N01SX)
